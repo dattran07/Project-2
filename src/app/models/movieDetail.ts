@@ -1,0 +1,4 @@
+interface MovieDetail {
+    adult: boolean;
+    
+}
